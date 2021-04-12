@@ -12,5 +12,10 @@ cmake
 |                                                           | https://github.com/wzpan/cmake-demo                |
 |                                                           | https://github.com/xiaomiwujiecao/cmakeTutorialCN  |
 |                                                           |                                                    |
+| cmake模板                                                 | https://github.com/district10/cmake-templates      |
 |                                                           |                                                    |
+|                                                           |                                                    |
+|                                                           |                                                    |
+
+
 
